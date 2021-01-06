@@ -73,7 +73,7 @@ This chapter introduces the world of legitimate hackers. Legal hacking is a type
 
 ## 🔹 Chapter 2
 - ### Information gathering and social engineering
-This chapter discusses the first part of the hacking process, which is footprinting. footprinting is the process of gathering all the information available about an organization. This information can be used for the hacking process. Sometimes, this information is also used for social engineering.<br>
+This chapter discusses the first part of the hacking process, which is footprinting. Footprinting is the process of gathering all the information available about an organization. This information can be used for the hacking process. Sometimes, this information is also used for social engineering.<br>
 In this chapter, we will explain both hacking methods in detail.<br>
 
 #### Topics in this chapter include
