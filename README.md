@@ -197,7 +197,7 @@ Session hijacking is one of the methods of hacking. Once the hacker has taken th
 
 ## Chapter 8
 - ### Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
-Web servers and web applications are highly susceptible to attack. The first reason is that web servers must be accessible via the Internet. When a web server is attacked, it provides a way for a hacker to enter the network. Not only web server software but also programs running on the web server can be used for attack. Because of their functionality, web servers are more accessible and less protected than other systems, so it is much easier to attack web servers.<br>
+Web servers and web applications are highly susceptible to attack. The first reason is that web servers must be accessible via the Internet. When a web server is attacked, it provides a way for a hacker to enter the network. Not only web server software but also programs running on the webserver can be used for the attack. Because of their functionality, web servers are more accessible and less protected than other systems, so it is much easier to attack web servers.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 8</b>  |   |   | 
