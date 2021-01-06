@@ -116,7 +116,7 @@ Scanning and enumeration are the first steps in hacking. After the scan, the enu
 
 ## Chapter 4
 - ### Hack system
-In this chapter, we will discuss the various aspects of system hacking. Recall that the hacking cycle consists of six stages. In this chapter, we will discuss the other five steps of the hacking wheel, which include breaking the password, increasing the access level, running programs, hiding files, and clearing traces.<br>
+In this chapter, we will discuss the various aspects of system hacking. Recall that the hacking cycle consists of six stages. This chapter will discuss the other five steps of the hacking wheel, which include breaking the password, increasing the access level, running programs, hiding files, and clearing traces.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 4</b>  |   |   | 
@@ -139,8 +139,8 @@ In this chapter, we will discuss the various aspects of system hacking. Recall t
 
 ## Chapter 5
 - ### Worm, Virus, Backdoor, Trojan
-Trojans and backdoors are two ways in which hackers can enter a system, and there are many different types, but they all have one thing in common. They must be installed by another program or the user must intervene to install them on the system. Trojans and backdoors are dangerous tools in a legitimate hacker toolkit that should be used to test the security of a networked system.<br>
-Viruses and worms can be as dangerous as trojans and backdoors. In fact, many viruses trigger trojans and can damage the system and then open a backdoor for the hacker. This chapter discusses the similarities and differences between Trojans, backdoors, viruses and worms. All of these malicious tools and codes are important to legitimate hackers because hackers use these tools to attack systems.<br>
+Trojans and backdoors are two ways in which hackers can enter a system, and there are many different types, but they all have one thing in common. They must be installed by another program or the user must intervene to install them on the system. Trojans and backdoors are dangerous tools in a legitimate hacker toolkit that should be used to test the security of a networked system.
+Viruses and worms can be as dangerous as trojans and backdoors. In fact, many viruses trigger trojans and can damage the system and then open a backdoor for the hacker. This chapter discusses the similarities and differences between Trojans, backdoors, viruses and worms. All of these malicious tools and codes are important to legitimate hackers because hackers use these tools to attack systems.
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 5</b>  |   |   | 
