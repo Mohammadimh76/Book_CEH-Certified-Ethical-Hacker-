@@ -217,8 +217,8 @@ Web servers and web applications are highly susceptible to attack. The first rea
 
 ## Chapter 9
 - ### SQL Injection and Buffer Overflow
-SQL injection and Buffer Overflow attacks are similar in that they both take place through the user's input box. A user input box is where a user may enter their username and password on a website, or add data to a URL and do a search for a word in an application.<br>
-SQL injection and Buffer Overflow vulnerabilities are both caused by one problem: Invalid parameters. If developers do not spend enough time examining the variables that the user can enter, the results will be serious and unpredictable. Professional hackers can take advantage of these vulnerabilities and shut down the system or program or take a shell to execute their commands.<br>
+SQL injection and Buffer Overflow attacks are similar in that they both take place through the user's input box. A user input box is where a user may enter their username and password on a website, add data to a URL, and search for a word in an application.<br>
+SQL injection and Buffer Overflow vulnerabilities are both caused by one problem: Invalid parameters. If developers do not spend enough time examining the variables that the user can enter, the results will be severe and unpredictable. Professional hackers can take advantage of these vulnerabilities and shut down the system or program or take a shell to execute their commands.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 9</b>  |   |   | 
