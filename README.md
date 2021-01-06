@@ -27,21 +27,21 @@ The book in front of you is a translation of the official CEH book as well as ed
 <div class="nav">
 
 ## Table of Content
-* [Chapter (1)](#chapter---1--) : Introduction to Legal Hacking
-* [Chapter Two :Information gathering and social engineering](#chapter---2----Information-gathering-and-social-engineering)
-* [Chapter (3):Scanning and enumeration](#chapter3)
-* [Chapter (4): Hack system](#chapter4)
-* [Chapter (5): Worm, Virus, Backdoor, Trojan](#chapter5)
-* [Chapter (6): Sniffers](#chapter6)
-* [Chapter (7): Denial of Service and Session hijacking](#chapter7)
-* [Chapter (8): Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques](#chapter8)
-* [Chapter (9): SQL Injection and Buffer Overfl](#chapter9)
-* [Chapter (10): Hack wireless networks](#chapter10)
-* [Chapter (11): Physical security](#chapter11)
-* [Chapter (12): Hack Linux](#chapter12)
-* [Chapter (13): Avoiding IDSs, Honeypots and Firewalls](#chapter13)
-* [Chapter (14): Cryptography](#chapter14)
-* [Chapter (15): Penetration testing methods](#chapter15)
+* [Chapter 1](#chapter-1) : Introduction to Legal Hacking
+* [Chapter 2](#chapter-2) :Information gathering and social engineering
+* [Chapter (3):Scanning and enumeration](#chapter-3)
+* [Chapter (4): Hack system](#chapter-4)
+* [Chapter (5): Worm, Virus, Backdoor, Trojan](#chapter-5)
+* [Chapter (6): Sniffers](#chapter-6)
+* [Chapter (7): Denial of Service and Session hijacking](#chapter-7)
+* [Chapter (8): Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques](#chapter-8)
+* [Chapter (9): SQL Injection and Buffer Overfl](#chapter-9)
+* [Chapter (10): Hack wireless networks](#chapter-10)
+* [Chapter (11): Physical security](#chapter-11)
+* [Chapter (12): Hack Linux](#chapter-12)
+* [Chapter (13): Avoiding IDSs, Honeypots and Firewalls](#chapter-13)
+* [Chapter (14): Cryptography](#chapter-14)
+* [Chapter (15): Penetration testing methods](#chapter-15)
 
 </div>
 
@@ -49,9 +49,9 @@ The book in front of you is a translation of the official CEH book as well as ed
 <main>
   
   
-<article id="chapter---1--">
+<article id="chapter-1">
 
-## Chapter (1)
+## Chapter 1 : Introduction to Legal Hacking
 
 </article>
 
@@ -61,7 +61,7 @@ The book in front of you is a translation of the official CEH book as well as ed
 
 </article>
 
-<article id="chapter3">
+<article id="chapter-3">
 
 ## Chapter (3) - Scanning and enumeration
 
