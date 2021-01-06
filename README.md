@@ -265,8 +265,8 @@ There is a sentence that says, "When you log in, your network is yours." By phys
   
 ## Chapter 12
 - ### Hack Linux
-Linux is a popular operating system for system administrators because it is a source and allows change. Because Linux is open source, there are several versions of it called distribution. Some of these distributions serve as a commercial operating system for clients and servers. Some of its common distributions are Mandrake, RedHat Debian and SUSE, some of the free versions are Gentoo and Knoppix.<br>
-The flexibility and cost of Linux, as well as the increase in the number of Linux applications, has led to the choice of Linux as the operating system of many systems. Although Linux is more secure than Windows, it has vulnerabilities that can be exploited. This chapter describes how to use Linux as an operating system and how to secure it to prevent an attack.<br>
+Linux is a popular operating system for system administrators because it is a source and allows change. Because Linux is open-source, there are several versions of it called distribution. Some of these distributions serve as a commercial operating system for clients and servers. Some of its standard distributions are Mandrake, RedHat Debian, and SUSE; some of the free versions are Gentoo and Knoppix.<br>
+The flexibility and cost of Linux, as well as the increase in the number of Linux applications, has led to the choice of Linux as the operating system of many systems. Although Linux is more secure than Windows, it has vulnerabilities that can be exploited. This chapter describes how to use Linux as an operating system and secure it to prevent an attack.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 12</b>  |   |   | 
