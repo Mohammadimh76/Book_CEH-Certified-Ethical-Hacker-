@@ -43,7 +43,8 @@ The book in front of you is a translation of the official CEH book as well as ed
 * [Chapter 14](#chapter-14): <i>Cryptography</i>
 * [Chapter 15](#chapter-15): <i>Penetration testing methods</i><br>
 
-[Authors](#authors)
+🔸[Authors](#authors)<br>
+🔺[E-Book Demo](#e--book-demo)<br>
 
 </div>
 
@@ -378,13 +379,18 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 📧 𝐄𝐦𝐚𝐢𝐥: miladit90@gmail.com 
 
 </article>
+
 ---
 ---
 
+<article id="e--book-demo">
+  
 👇Click on the link below to see the E-Book Demo!👇😉
 
 ## (E-Book Demo): 🔺(Coming Soon)🔺
 
+
+</article>
 
 </main>
 
