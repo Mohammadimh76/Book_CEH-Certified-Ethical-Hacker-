@@ -27,7 +27,7 @@ The book in front of you is a translation of the official CEH book as well as ed
 <div class="nav">
 
 ## Table of Content
-* [Blog](#blog)
+* [Blogsss](#blog)
 * [Calling App](#calling-app)
 * [Cards](#cards)
 
@@ -37,7 +37,7 @@ The book in front of you is a translation of the official CEH book as well as ed
   
   <article id="blog">
 
-### Blog
+## Blogsss
 
 * [UI Blog Kit Template for Sketch](https://logwork.com/blog/downloads/free-sketch-ui-kit-templates) — this kit contains customized headers and footers, multiple post design types, Sketch design with over 150 symbols that are well-systematized, named and grouped. Take a look! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
