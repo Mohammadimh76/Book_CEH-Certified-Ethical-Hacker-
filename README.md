@@ -27,7 +27,7 @@ The book in front of you is a translation of the official CEH book as well as ed
 <div class="nav">
 
 ## Table of Content
-* [Chapter (1):Introduction to Legal Hacking](#ccc)
+* [Chapter (1):Introduction to Legal Hacking](#chapter1)
 * [Chapter (2):Information gathering and social engineering](#chapter2)
 * [Chapter (3):Scanning and enumeration](#chapter3)
 * [Chapter (4): Hack system](#chapter4)
@@ -42,28 +42,8 @@ The book in front of you is a translation of the official CEH book as well as ed
 * [Chapter (13): Avoiding IDSs, Honeypots and Firewalls](#chapter13)
 * [Chapter (14): Cryptography](#chapter14)
 * [Chapter (15): Penetration testing methods](#chapter15)
+
 </div>
-
-
-
-
-## Chapters
-
-- <b>Chapter (1):</b> Introduction to Legal Hacking
-- <b>Chapter (2):</b> Information gathering and social engineering
-- <b>Chapter (3):</b> Scanning and enumeration
-- <b>Chapter (4):</b> Hack system
-- <b>Chapter (5):</b> Worm, Virus, Backdoor, Trojan
-- <b>Chapter (6):</b> Sniffers
-- <b>Chapter (7):</b> Denial of Service and Session hijacking
-- <b>Chapter (8):</b> Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
-- <b>Chapter (9):</b> SQL Injection and Buffer Overflo
-- <b>Chapter (10):</b> Hack wireless networks
-- <b>Chapter (11):</b> Physical security
-- <b>Chapter (12):</b> Hack Linux
-- <b>Chapter (13):</b> Avoiding IDSs, Honeypots and Firewalls
-- <b>Chapter (14):</b> Cryptography
-- <b>Chapter (15):</b> Penetration testing methods
 
 
 <main>
@@ -159,8 +139,6 @@ The book in front of you is a translation of the official CEH book as well as ed
 </article>
 
 </main>
-
-
 
 
 ---
