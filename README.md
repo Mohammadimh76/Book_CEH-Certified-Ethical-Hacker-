@@ -1,4 +1,4 @@
-## "CEH(Certified Ethical Hacker)"
+# "CEH(Certified Ethical Hacker)"
 
 ---
 
@@ -43,8 +43,8 @@ The book in front of you is a translation of the official CEH book as well as ed
 - <b>Chapter (14):</b> Cryptography
 - <b>Chapter (15):</b> Penetration testing methods
 
-# Chapter 1
-## Introduction to Legal Hacking
+## Chapter 1
+- ### Introduction to Legal Hacking
 Most people think that hackers have high skills and knowledge that can hack computer systems and find vulnerabilities. In fact, a good hacker only needs to know how a computer system works and what tools are used to find security vulnerabilities.<br>
 This chapter introduces the world of legitimate hackers. Legal hacking is a type of hacking that is done with an organizational license and to increase security.<br>
 #### Topics in this chapter include
