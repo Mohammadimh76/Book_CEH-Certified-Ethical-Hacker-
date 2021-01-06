@@ -43,6 +43,31 @@ The book in front of you is a translation of the official CEH book as well as ed
 - <b>Chapter (14):</b> Cryptography
 - <b>Chapter (15):</b> Penetration testing methods
 
+<div class="nav">
+
+## Contents
+[Chapter 1](#chapter-1)
+[Chapter 2](#chapter-2)
+[Chapter 3](#chapter-3)
+[Chapter 4](#chapter-4)
+[Chapter 5](#chapter-5)
+[Chapter 6](#chapter-6)
+[Chapter 7](#chapter-7)
+[Chapter 8](#chapter-8)
+[Chapter 9](#chapter-9)
+[Chapter 10](#chapter-10)
+[Chapter 11](#chapter-11)
+[Chapter 12](#chapter-12)
+[Chapter 13](#chapter-13)
+[Chapter 14](#chapter-14)
+[Chapter 15](#chapter-15)
+
+</div>
+
+<main>
+
+<article id="chapter-1">
+
 ## Chapter 1
 - ### Introduction to Legal Hacking
 Most people think that hackers have high skills and knowledge that can hack computer systems and find vulnerabilities. In fact, a good hacker only needs to know how a computer system works and what tools are used to find security vulnerabilities.<br>
@@ -57,36 +82,52 @@ This chapter introduces the world of legitimate hackers. Legal hacking is a type
 |1-5 |1-11 |1-17 |
 |1-6 |1-12 |1-18 |
 
-## Chapter (2) - Information gathering and social engineering
+</article>
 
-## Chapter (3) - Scanning and enumeration
+## Chapter 2
+- ### Information gathering and social engineering
 
-## Chapter (4) - Hack system
+## Chapter 3
+- ### Scanning and enumeration
 
-## Chapter (5) - Worm, Virus, Backdoor, Trojan
+## Chapter 4
+- ### Hack system
 
-## Chapter (6) - Sniffers
+## Chapter 5
+- ### Worm, Virus, Backdoor, Trojan
 
-## Chapter (7) - Denial of Service and Session hijacking
+## Chapter 6
+- ### Sniffers
 
-## Chapter (8) - Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
+## Chapter 7
+- ### Denial of Service and Session hijacking
 
-## Chapter (9) - SQL Injection and Buffer Overflow
+## Chapter 8
+- ### Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
 
-## Chapter (10) - Hack wireless networks
+## Chapter 9
+- ### SQL Injection and Buffer Overflow
 
-## Chapter (11) - Physical security
+## Chapter 10
+- ### Hack wireless networks
 
-## Chapter (12) - Hack Linux
+## Chapter 11
+- ### Physical security
 
-## Chapter (13) - Avoiding IDSs, Honeypots and Firewalls
+## Chapter 12
+- ### Hack Linux
 
-## Chapter (14) - Cryptography
+## Chapter 13
+- ### Avoiding IDSs, Honeypots and Firewalls
 
-## Chapter (15) - Penetration testing methods
+## Chapter 14
+- ### Cryptography
+
+## Chapter 15
+- ### Penetration testing methods
 
 
-
+</main>
 
 
 
