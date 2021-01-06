@@ -43,8 +43,8 @@ The book in front of you is a translation of the official CEH book as well as ed
 * [Chapter 14](#chapter-14): <i>Cryptography</i>
 * [Chapter 15](#chapter-15): <i>Penetration testing methods</i><br>
 
-🔸[Authors](#authors)<br>
-🔸[Demo](#demo)<br>
+🔸 [Authors](#authors)<br>
+🔸 [Demo](#demo)<br>
 
 </div>
 
@@ -57,7 +57,7 @@ The book in front of you is a translation of the official CEH book as well as ed
 Most people think that hackers have high skills and knowledge that can hack computer systems and find vulnerabilities. In fact, a good hacker only needs to know how a computer system works and what tools are used to find security vulnerabilities.<br>
 This chapter introduces the world of legitimate hackers. Legal hacking is a type of hacking that is done with an organizational license and to increase security.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 1</b>  |   |   | 
 |-----------|--------------------|-----------|
 |1-1  |1-7  |1-13 |
@@ -71,7 +71,7 @@ This chapter introduces the world of legitimate hackers. Legal hacking is a type
 
 <article id="chapter-2">
 
-## Chapter 2
+## 🔹 Chapter 2
 - ### Information gathering and social engineering
 This chapter discusses the first part of the hacking process, which is footprinting. footprinting is the process of gathering all the information available about an organization. This information can be used for the hacking process. Sometimes, this information is also used for social engineering.<br>
 In this chapter, we will explain both hacking methods in detail.<br>
@@ -96,7 +96,7 @@ In this chapter, we will explain both hacking methods in detail.<br>
 - ### Scanning and enumeration
 Scanning and enumeration are the first steps of hacking. After the scan, the enumeration phase begins, which involves identifying the names of computers, user accounts, and shared resources. Scanning and enumeration are discussed together because many hacking tools do both.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 3</b>  |   |   | 
 |-----------|--------------------|-----------|
 |3-1 |3-11 |3-21 |
@@ -118,7 +118,7 @@ Scanning and enumeration are the first steps of hacking. After the scan, the enu
 - ### Hack system
 In this chapter, we will discuss the various aspects of system hacking. Recall that the hacking cycle consists of six stages. In this chapter, we will discuss the other five steps of the hacking wheel, which include breaking the password, increasing the access level, running programs, hiding files, and clearing traces.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 4</b>  |   |   | 
 |-----------|--------------------|-----------|
 |4-1 |4-12 |4-23 |
@@ -142,7 +142,7 @@ In this chapter, we will discuss the various aspects of system hacking. Recall t
 Trojans and backdoors are two ways in which hackers can enter a system, and there are many different types, but they all have one thing in common. They must be installed by another program or the user must intervene to install them on the system. Trojans and backdoors are dangerous tools in a legitimate hacker toolkit that should be used to test the security of a networked system.<br>
 Viruses and worms can be as dangerous as trojans and backdoors. In fact, many viruses trigger trojans and can damage the system and then open a backdoor for the hacker. This chapter discusses the similarities and differences between Trojans, backdoors, viruses and worms. All of these malicious tools and codes are important to legitimate hackers because hackers use these tools to attack systems.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 5</b>  |   |   | 
 |-----------|--------------------|-----------|
 |5-1 |5-8 |5-15 |
@@ -162,7 +162,7 @@ Viruses and worms can be as dangerous as trojans and backdoors. In fact, many vi
 Sniffer is a tool for obtaining packages or frames. It eavesdrops on network traffic and shows them to the hacker as a command line with graphics. Some advanced sniffer eavesdrops on packets and can put them back together to form the original text or email.<br>
 Sniffer is used to capture traffic sent between two systems. Depending on how the sniffer is used and security measures, the hacker can use the sniffer to detect usernames, passwords, and other confidential information posted on the network. Many hacking attacks and some hacking tools require a sniffer to obtain important information sent from the target system. In this chapter we will explain how sniffer works and some common sniffer tools.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 6</b>  |   |   | 
 |-----------|--------------------|-----------|
 |6-1 |6-6 |6-11 |
@@ -180,7 +180,7 @@ Sniffer is used to capture traffic sent between two systems. Depending on how th
 In a DoS attack, a hacker tries to quickly slow down the system and prevent users from using its resources. Hackers can target only one system or one network, and they usually succeed.<br>
 Session hijacking is one of the methods of hacking. Once the hacker has taken the session, it creates a temporary DoS for the end user. After a user creates a legal session, the hacker uses session hijacking to capture the session. It can also use session hijacking to carry out a man-in-the-middle attack when the hacker is between the receiver and the client and eavesdrops on all traffic.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 7</b>  |   |   | 
 |-----------|--------------------|-----------|
 |7-1 |7-8 |7-15 |
@@ -199,7 +199,7 @@ Session hijacking is one of the methods of hacking. Once the hacker has taken th
 - ### Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
 Web servers and web applications are highly susceptible to attack. The first reason is that web servers must be accessible via the Internet. When a web server is attacked, it provides a way for a hacker to enter the network. Not only web server software but also programs running on the web server can be used for attack. Because of their functionality, web servers are more accessible and less protected than other systems, so it is much easier to attack web servers.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 8</b>  |   |   | 
 |-----------|--------------------|-----------|
 |8-1 |8-9 |8-17 |
@@ -220,7 +220,7 @@ Web servers and web applications are highly susceptible to attack. The first rea
 SQL injection and Buffer Overflow attacks are similar in that they both take place through the user's input box. A user input box is where a user may enter their username and password on a website, or add data to a URL and do a search for a word in an application.<br>
 SQL injection and Buffer Overflow vulnerabilities are both caused by one problem: Invalid parameters. If developers do not spend enough time examining the variables that the user can enter, the results will be serious and unpredictable. Professional hackers can take advantage of these vulnerabilities and shut down the system or program or take a shell to execute their commands.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 9</b>  |   |   | 
 |-----------|--------------------|-----------|
 |9-1 |9-5 |9-9 |
@@ -235,7 +235,7 @@ SQL injection and Buffer Overflow vulnerabilities are both caused by one problem
 ## Chapter 10
 - ### Hack wireless networks
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 10</b>  |   |   | 
 |-----------|--------------------|-----------|
 |10-1 |10-5 |10-9 |
@@ -252,7 +252,7 @@ SQL injection and Buffer Overflow vulnerabilities are both caused by one problem
 Physical security is one of the most important parts of IT security to prevent the loss or theft of confidential and sensitive data. If an organization fails to provide adequate physical security, then other technical security measures such as firewalls and IDSs can be circumvented.<br>
 There is a sentence that says "When you log in, your network is yours". By physically securing your network and organization, you prevent theft of equipment such as laptops or tape drives, embedding keyloggers on systems, and placing access points on the network. Physical security depends on individuals, therefore, it is prone to social engineering attacks, such as entering a building behind an employee and not providing an ID card or key (thus, bypassing the problem of physical security)<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 11</b>  |   |   | 
 |-----------|--------------------|-----------|
 |11-1 |11-4 |11-7 |
@@ -268,7 +268,7 @@ There is a sentence that says "When you log in, your network is yours". By physi
 Linux is a popular operating system for system administrators because it is a source and allows change. Because Linux is open source, there are several versions of it called distribution. Some of these distributions serve as a commercial operating system for clients and servers. Some of its common distributions are Mandrake, RedHat Debian and SUSE, some of the free versions are Gentoo and Knoppix.<br>
 The flexibility and cost of Linux, as well as the increase in the number of Linux applications, has led to the choice of Linux as the operating system of many systems. Although Linux is more secure than Windows, it has vulnerabilities that can be exploited. This chapter describes how to use Linux as an operating system and how to secure it to prevent an attack.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 12</b>  |   |   | 
 |-----------|--------------------|-----------|
 |12-1 |12-5 |12-9 |
@@ -284,7 +284,7 @@ The flexibility and cost of Linux, as well as the increase in the number of Linu
 - ### Avoiding IDSs, Honeypots and Firewalls
 Intrusion detection systems (IDS), firewalls, and honeypots are security measures that assure you that a hacker cannot access your network or system. Intrusion detection systems (IDS) and firewalls are part of closed filtering devices and monitor traffic according to pre-written rules. honeypot is a fake target system that is used as bait for a hacker to keep him from achieving valuable targets. As a security expert, you need to be familiar with how they work and how they create security.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 13</b>  |   |   | 
 |-----------|--------------------|-----------|
 |13-1 |13-4 |13-7 |
@@ -299,7 +299,7 @@ Intrusion detection systems (IDS), firewalls, and honeypots are security measure
 - ### Cryptography
 Cryptography is the study of encryption and encryption algorithms. In fact, encryption is the conversion of a message from clear text to cipher text and vice versa. The purpose of encryption is to convert the data so that the eavesdropper can not read the data with someone who does not have the password. Encryption to secure communications. Cryptography defines the techniques used in encryption. This chapter will explain cryptography and encryption algorithms.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 14</b>  |   |   | 
 |-----------|--------------------|-----------|
 |14-1 |14-3 |14-5 |
@@ -314,7 +314,7 @@ Cryptography is the study of encryption and encryption algorithms. In fact, encr
 Penetration testing simulates a hacker attack to gain access to a network with an organization's systems. The purpose of penetration testing is to examine an organization's implementation and security policy: Basically, to see if the organization has properly implemented the security criteria set out in its security policy.<br>
 A hacker who intends to gain access to an organization's network is different from a person who performs a pen tester and uses his knowledge to increase the security of an organization's network without risk.<br>
 
-#### Topics in this chapter include
+#### 🔹 Topics in this chapter include
 | <b>Chapter 15</b>  |   |   | 
 |-----------|--------------------|-----------|
 |15-1 |15-4 |15-7 |
