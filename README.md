@@ -282,7 +282,7 @@ The flexibility and cost of Linux, as well as the increase in the number of Linu
   
 ## Chapter 13
 - ### Avoiding IDSs, Honeypots and Firewalls
-Intrusion detection systems (IDS), firewalls, and honeypots are security measures that assure you that a hacker cannot access your network or system. Intrusion detection systems (IDS) and firewalls are part of closed filtering devices and monitor traffic according to pre-written rules. honeypot is a fake target system that is used as bait for a hacker to keep him from achieving valuable targets. As a security expert, you need to be familiar with how they work and how they create security.<br>
+Intrusion detection systems (IDS), firewalls, and honeypots are security measures that assure you that a hacker cannot access your network or system. Intrusion detection systems (IDS) and firewalls are closed filtering devices and monitor traffic according to pre-written rules. Honeypot is a fake target system used as bait for a hacker to keep him from achieving valuable targets. As a security expert, you need to be familiar with how they work and how they create security.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 13</b>  |   |   | 
