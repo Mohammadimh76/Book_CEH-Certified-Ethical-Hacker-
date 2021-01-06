@@ -139,8 +139,8 @@ In this chapter, we will discuss the various aspects of system hacking. Recall t
 
 ## Chapter 5
 - ### Worm, Virus, Backdoor, Trojan
-Trojans and backdoors are two ways in which hackers can enter a system, and there are many different types, but they all have one thing in common. They must be installed by another program or the user must intervene to install them on the system. Trojans and backdoors are dangerous tools in a legitimate hacker toolkit that should be used to test the security of a networked system.
-Viruses and worms can be as dangerous as trojans and backdoors. In fact, many viruses trigger trojans and can damage the system and then open a backdoor for the hacker. This chapter discusses the similarities and differences between Trojans, backdoors, viruses and worms. All of these malicious tools and codes are important to legitimate hackers because hackers use these tools to attack systems.
+Trojans and backdoors are two ways hackers can enter a system, and there are many different types, but they all have one thing in common. Another program must install them, or the user must intervene to install them on the system. Trojans and backdoors are dangerous tools in a legitimate hacker toolkit that should be used to test the security of a networked system.<br>
+Viruses and worms can be as dangerous as trojans and backdoors. Many viruses trigger trojans and can damage the system and then open a backdoor for the hacker. This chapter discusses the similarities and differences between Trojans, backdoors, viruses, and worms. These malicious tools and codes are essential to legitimate hackers because hackers use these tools to attack systems.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 5</b>  |   |   | 
@@ -159,8 +159,8 @@ Viruses and worms can be as dangerous as trojans and backdoors. In fact, many vi
 
 ## Chapter 6
 - ### Sniffers
-Sniffer is a tool for obtaining packages or frames. It eavesdrops on network traffic and shows them to the hacker as a command line with graphics. Some advanced sniffer eavesdrops on packets and can put them back together to form the original text or email.<br>
-Sniffer is used to capture traffic sent between two systems. Depending on how the sniffer is used and security measures, the hacker can use the sniffer to detect usernames, passwords, and other confidential information posted on the network. Many hacking attacks and some hacking tools require a sniffer to obtain important information sent from the target system. In this chapter we will explain how sniffer works and some common sniffer tools.<br>
+Sniffer is a tool for obtaining packages or frames. It eavesdrops on network traffic and shows them to the hacker as a command line with graphics. Some advanced sniffer eavesdrops on packets and can put them back together to form the original text or email.
+Sniffer is used to capture traffic sent between two systems. Depending on how the sniffer is used and security measures, the hacker can use the sniffer to detect usernames, passwords, and other confidential information posted on the network. Many hacking attacks and some hacking tools require a sniffer to obtain important information sent from the target system. In this chapter we will explain how sniffer works and some common sniffer tools.
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 6</b>  |   |   | 
