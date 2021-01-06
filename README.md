@@ -41,7 +41,9 @@ The book in front of you is a translation of the official CEH book as well as ed
 * [Chapter 12](#chapter-12): <i>Hack Linux</i>
 * [Chapter 13](#chapter-13): <i>Avoiding IDSs, Honeypots and Firewalls</i>
 * [Chapter 14](#chapter-14): <i>Cryptography</i>
-* [Chapter 15](#chapter-15): <i>Penetration testing methods</i>
+* [Chapter 15](#chapter-15): <i>Penetration testing methods</i><br>
+
+[Authors](#authors)
 
 </div>
 
@@ -320,9 +322,10 @@ A hacker who intends to gain access to an organization's network is different fr
 
 </article>
 
-</main>
+
 
 ---
+<article id="authors">
 
 ## Authors
 
@@ -374,12 +377,16 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 
 📧 𝐄𝐦𝐚𝐢𝐥: miladit90@gmail.com 
 
+</article>
 ---
 ---
 
 👇Click on the link below to see the E-Book Demo!👇😉
 
 ## (E-Book Demo): 🔺(Coming Soon)🔺
+
+
+</main>
 
 
 
