@@ -24,6 +24,18 @@ The book in front of you is a translation of the official CEH book as well as ed
 
 ---
 
+<div class="nav">
+
+## Table of Content
+* [Blog](#blog)
+* [Calling App](#calling-app)
+</div>
+
+
+
+
+## Chapters
+
 - <b>Chapter (1):</b> Introduction to Legal Hacking
 - <b>Chapter (2):</b> Information gathering and social engineering
 - <b>Chapter (3):</b> Scanning and enumeration
@@ -40,21 +52,33 @@ The book in front of you is a translation of the official CEH book as well as ed
 - <b>Chapter (14):</b> Cryptography
 - <b>Chapter (15):</b> Penetration testing methods
 
-## Contents:
-| <b>Chapter 1</b>  | <b>Chapter 2</b>  | <b>Chapter 3</b>  | <b>Chapter 4</b>  | <b>Chapter 5</b>  |
-|-----------|--------------------|-----------|-----------|-----------|
 
-| <b>Chapter 6</b>  | <b>Chapter 7</b>  | <b>Chapter 8</b>  | <b>Chapter 9</b>  | <b>Chapter 10</b>  |
-|-----------|--------------------|-----------|-----------|-----------|
+<main>
 
-| <b>Chapter 11</b>  | <b>Chapter 12</b>  | <b>Chapter 13</b>  | <b>Chapter 14</b>  | <b>Chapter 15</b>  |
-|-----------|--------------------|-----------|-----------|-----------|
-
-
+<article id="blog">
 
 ## Chapter (1) - Introduction to Legal Hacking
+Most people think that hackers have high skills and knowledge that can hack computer systems and find vulnerabilities. In fact, a good hacker only needs to know how a computer system works and what tools are used to find security vulnerabilities.<br>
+This chapter introduces the world of legitimate hackers. Legal hacking is a type of hacking that is done with an organizational license and to increase security.<br>
+#### Topics in this chapter include
+| <b>Chapter 1</b>  |   |   | 
+|-----------|--------------------|-----------|
+|1-1 Introduction |1-7 Introduction |1-13 Introduction |
+|1-2 Introduction |1-8 Introduction |1-14 Introduction |
+|1-3 Introduction |1-9 Introduction |1-15 Introduction |
+|1-4 |1-10 |1-16 |
+|1-5 |1-11 |1-17 |
+|1-6 |1-12 |1-18 |
 
+</article>
+
+<article id="calling-app">
+  
 ## Chapter (2) - Information gathering and social engineering
+
+</article>
+
+</main>
 
 ## Chapter (3) - Scanning and enumeration
 
