@@ -44,7 +44,7 @@ The book in front of you is a translation of the official CEH book as well as ed
 * [Chapter 15](#chapter-15): <i>Penetration testing methods</i><br>
 
 🔸[Authors](#authors)<br>
-🔺[E-Book Demo](#e--book-demo)<br>
+🔸[Demo](#demo)<br>
 
 </div>
 
@@ -383,11 +383,12 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 ---
 ---
 
-<article id="e--book-demo">
+<article id="demo">
   
 👇Click on the link below to see the E-Book Demo!👇😉
 
-## (E-Book Demo): 🔺(Coming Soon)🔺
+## (Demo) 
+🔺(Coming Soon)🔺
 
 
 </article>
