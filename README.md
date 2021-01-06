@@ -297,8 +297,7 @@ Intrusion detection systems (IDS), firewalls, and honeypots are security measure
 
 ## Chapter 14
 - ### Cryptography
-Cryptography is the study of encryption and encryption algorithms. In fact, encryption is the conversion of a message from clear text to cipher text and vice versa. The purpose of encryption is to convert the data so that the eavesdropper can not read the data with someone who does not have the password. Encryption to secure communications. Cryptography defines the techniques used in encryption. This chapter will explain cryptography and encryption algorithms.<br>
-
+Cryptography is the study of encryption and encryption algorithms. Encryption is the conversion of a message from exact text to cipher text and vice versa. The purpose of encryption is to convert the data so that the eavesdropper can not read the data with someone who does not have the password—encryption to secure communications. Cryptography defines the techniques used in encryption. This chapter will explain cryptography and encryption algorithms.<br>
 #### 🔹 Topics in this chapter include
 | <b>Chapter 14</b>  |   |   | 
 |-----------|--------------------|-----------|
