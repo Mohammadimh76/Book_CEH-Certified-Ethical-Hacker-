@@ -27,7 +27,7 @@ The book in front of you is a translation of the official CEH book as well as ed
 <div class="nav">
 
 ## Table of Content
-* [Chapter One](#cahpter-one)
+* [Chapter One](#chapter-one)
 * [Chapter (2):Information gathering and social engineering](#chapter---2----Information-gathering-and-social-engineering)
 * [Chapter (3):Scanning and enumeration](#chapter3)
 * [Chapter (4): Hack system](#chapter4)
@@ -48,9 +48,10 @@ The book in front of you is a translation of the official CEH book as well as ed
 
 <main>
   
-<article id="cahpter-one">
+  
+<article id="chapter-one">
 
-## Chapter One
+### Chapter One
 
 </article>
 
