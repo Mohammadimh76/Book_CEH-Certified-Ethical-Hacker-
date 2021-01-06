@@ -385,7 +385,7 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 
 <article id="demo">
   
-## (Demo) 
+## Demo 
 
 👇Click on the link below to see the E-Book Demo!👇😉
 
