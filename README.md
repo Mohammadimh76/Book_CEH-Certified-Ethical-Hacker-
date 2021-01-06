@@ -27,8 +27,8 @@ The book in front of you is a translation of the official CEH book as well as ed
 <div class="nav">
 
 ## Table of Content
-* [Chapter One](#chapter-one)
-* [Chapter (2):Information gathering and social engineering](#chapter---2----Information-gathering-and-social-engineering)
+* [Chapter One](#chapter-one) : Introduction to Legal Hacking
+* [Chapter Two :Information gathering and social engineering](#chapter---2----Information-gathering-and-social-engineering)
 * [Chapter (3):Scanning and enumeration](#chapter3)
 * [Chapter (4): Hack system](#chapter4)
 * [Chapter (5): Worm, Virus, Backdoor, Trojan](#chapter5)
@@ -51,7 +51,7 @@ The book in front of you is a translation of the official CEH book as well as ed
   
 <article id="chapter-one">
 
-### Chapter One
+## Chapter One
 
 </article>
 
