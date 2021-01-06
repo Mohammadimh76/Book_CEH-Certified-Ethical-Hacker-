@@ -27,118 +27,28 @@ The book in front of you is a translation of the official CEH book as well as ed
 <div class="nav">
 
 ## Table of Content
-* [Chapter (1) Introduction to Legal Hacking](#chapter-(1)-Introduction-to-Legal-Hacking)
-* [Chapter (2):Information gathering and social engineering](#chapter2)
-* [Chapter (3):Scanning and enumeration](#chapter3)
-* [Chapter (4): Hack system](#chapter4)
-* [Chapter (5): Worm, Virus, Backdoor, Trojan](#chapter5)
-* [Chapter (6): Sniffers](#chapter6)
-* [Chapter (7): Denial of Service and Session hijacking](#chapter7)
-* [Chapter (8): Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques](#chapter8)
-* [Chapter (9): SQL Injection and Buffer Overfl](#chapter9)
-* [Chapter (10): Hack wireless networks](#chapter10)
-* [Chapter (11): Physical security](#chapter11)
-* [Chapter (12): Hack Linux](#chapter12)
-* [Chapter (13): Avoiding IDSs, Honeypots and Firewalls](#chapter13)
-* [Chapter (14): Cryptography](#chapter14)
-* [Chapter (15): Penetration testing methods](#chapter15)
+* [Blog](#blog)
+* [Calling App](#calling-app)
+* [Cards](#cards)
 
 </div>
 
-
 <main>
   
-<article id="chapter-(1)-Introduction-to-Legal-Hacking">
+  <article id="blog">
 
-## Chapter (1) - Introduction to Legal Hacking
+### Blog
 
-</article>
+* [UI Blog Kit Template for Sketch](https://logwork.com/blog/downloads/free-sketch-ui-kit-templates) — this kit contains customized headers and footers, multiple post design types, Sketch design with over 150 symbols that are well-systematized, named and grouped. Take a look! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
-<article id="chapter2">
-
-## Chapter (2) - Information gathering and social engineering
+* [Write - Free UI Kit for Sketch and Adobe XD](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD) — if you're going to create your own blog, check this UI Kit that will help you to organize your content well. It contains 15 different iOS app screens designed in vector format, based on symbols. Available for Sketch and Adobe XD. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
 
 </article>
-
-<article id="chapter3">
-
-## Chapter (3) - Scanning and enumeration
-
-</article>
-
-<article id="chapter4">
-
-## Chapter (4) - Hack system
-
-</article>
-
-<article id="chapter5">
-
-## Chapter (5) - Worm, Virus, Backdoor, Trojan
-
-</article>
-
-<article id="chapter6">
-
-## Chapter (6) - Sniffers
-
-</article>
-
-<article id="chapter7">
-
-## Chapter (7) - Denial of Service and Session hijacking
-
-</article>
-
-<article id="chapter8">
-
-## Chapter (8) - Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
-
-</article>
-
-<article id="chapter9">
-
-## Chapter (9) - SQL Injection and Buffer Overflow
-
-</article>
-
-<article id="chapter10">
-
-## Chapter (10) - Hack wireless networks
-
-</article>
-
-<article id="chapter11">
-
-## Chapter (11) - Physical security
-
-</article>
-
-<article id="chapter12">
-
-## Chapter (12) - Hack Linux
-
-</article>
-
-<article id="chapter13">
-
-## Chapter (13) - Avoiding IDSs, Honeypots and Firewalls
-
-</article>
-
-<article id="chapter14">
-
-## Chapter (14) - Cryptography
-
-</article>
-
-<article id="chapter15">
-
-## Chapter (15) - Penetration testing methods
-
-</article>
-
-</main>
+  
+  
+  
+  
+  </main>
 
 
 
