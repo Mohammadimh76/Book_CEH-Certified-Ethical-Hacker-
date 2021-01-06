@@ -28,7 +28,7 @@ The book in front of you is a translation of the official CEH book as well as ed
 
 ## Table of Content
 * [Blog](#blog)
-* [Calling App](#calling-app)
+
 </div>
 
 
@@ -54,8 +54,20 @@ The book in front of you is a translation of the official CEH book as well as ed
 
 
 <main>
+  
+  <article id="blog">
 
-<article id="blog">
+### Blog
+
+* [UI Blog Kit Template for Sketch](https://logwork.com/blog/downloads/free-sketch-ui-kit-templates) — this kit contains customized headers and footers, multiple post design types, Sketch design with over 150 symbols that are well-systematized, named and grouped. Take a look! ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
+* [Write - Free UI Kit for Sketch and Adobe XD](https://dribbble.com/shots/6275597-Write-Free-UI-Kit-for-Sketch-and-Adobe-XD) — if you're going to create your own blog, check this UI Kit that will help you to organize your content well. It contains 15 different iOS app screens designed in vector format, based on symbols. Available for Sketch and Adobe XD. ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg) ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)
+
+</article>
+
+<main>
+
+
 
 ## Chapter (1) - Introduction to Legal Hacking
 Most people think that hackers have high skills and knowledge that can hack computer systems and find vulnerabilities. In fact, a good hacker only needs to know how a computer system works and what tools are used to find security vulnerabilities.<br>
@@ -70,15 +82,7 @@ This chapter introduces the world of legitimate hackers. Legal hacking is a type
 |1-5 |1-11 |1-17 |
 |1-6 |1-12 |1-18 |
 
-</article>
-
-<article id="calling-app">
-  
 ## Chapter (2) - Information gathering and social engineering
-
-</article>
-
-</main>
 
 ## Chapter (3) - Scanning and enumeration
 
