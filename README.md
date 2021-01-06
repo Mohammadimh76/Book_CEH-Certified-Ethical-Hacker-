@@ -297,7 +297,7 @@ Intrusion detection systems (IDS), firewalls, and honeypots are security measure
 
 ## Chapter 14
 - ### Cryptography
-Cryptography is the study of encryption and encryption algorithms. Encryption is the conversion of a message from exact text to cipher text and vice versa. The purpose of encryption is to convert the data so that the eavesdropper can not read the data with someone who does not have the password—encryption to secure communications. Cryptography defines the techniques used in encryption. This chapter will explain cryptography and encryption algorithms.<br>
+Cryptography is the study of encryption and encryption algorithms. Encryption is the conversion of a message from exact text to ciphertext and vice versa. The purpose of encryption is to convert the data so that the eavesdropper can not read the data with someone who does not have the password—encryption to secure communications. Cryptography defines the techniques used in encryption. This chapter will explain cryptography and encryption algorithms.<br>
 #### 🔹 Topics in this chapter include
 | <b>Chapter 14</b>  |   |   | 
 |-----------|--------------------|-----------|
@@ -310,8 +310,8 @@ Cryptography is the study of encryption and encryption algorithms. Encryption is
 
 ## Chapter 15
 - ### Penetration testing methods
-Penetration testing simulates a hacker attack to gain access to a network with an organization's systems. The purpose of penetration testing is to examine an organization's implementation and security policy: Basically, to see if the organization has properly implemented the security criteria set out in its security policy.<br>
-A hacker who intends to gain access to an organization's network is different from a person who performs a pen tester and uses his knowledge to increase the security of an organization's network without risk.<br>
+Penetration testing simulates a hacker attack to gain access to a network with an organization's systems. The purpose of penetration testing is to examine an organization's implementation and security policy: Basically, to see if the organization has adequately implemented the security criteria set out in its security policy.<br>
+A hacker who intends to gain access to an organization's network is different from a person who performs as a pen tester and uses his knowledge to increase an organization's network's security without risk.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 15</b>  |   |   | 
@@ -321,7 +321,6 @@ A hacker who intends to gain access to an organization's network is different fr
 |15-3 |15-6 | |
 
 </article>
-
 
 
 ---
