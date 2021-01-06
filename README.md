@@ -159,8 +159,8 @@ Viruses and worms can be as dangerous as trojans and backdoors. Many viruses tri
 
 ## Chapter 6
 - ### Sniffers
-Sniffer is a tool for obtaining packages or frames. It eavesdrops on network traffic and shows them to the hacker as a command line with graphics. Some advanced sniffer eavesdrops on packets and can put them back together to form the original text or email.
-Sniffer is used to capture traffic sent between two systems. Depending on how the sniffer is used and security measures, the hacker can use the sniffer to detect usernames, passwords, and other confidential information posted on the network. Many hacking attacks and some hacking tools require a sniffer to obtain important information sent from the target system. In this chapter we will explain how sniffer works and some common sniffer tools.
+A sniffer is a tool for obtaining packages or frames. It eavesdrops on network traffic and shows them to the hacker as a command line with graphics. Some advanced sniffer eavesdrops on packets and can put them back together to form the original text or email.<br>
+Sniffer is used to capturing traffic sent between two systems. Depending on how the sniffer is used and security measures, the hacker can use the sniffer to detect usernames, passwords, and other confidential information posted on the network. Many hacking attacks and hacking tools require a sniffer to obtain important information from the target system. In this chapter, we will explain how sniffer works and some standard sniffer tools.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 6</b>  |   |   | 
