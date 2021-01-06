@@ -24,124 +24,24 @@ The book in front of you is a translation of the official CEH book as well as ed
 
 ---
 
-<div class="nav">
 
-## Table of Content
-* [Chapter 1](#chapter-1) : Introduction to Legal Hacking
-* [Chapter 2](#chapter-2) :Information gathering and social engineering
-* [Chapter (3):Scanning and enumeration](#chapter-3)
-* [Chapter (4): Hack system](#chapter-4)
-* [Chapter (5): Worm, Virus, Backdoor, Trojan](#chapter-5)
-* [Chapter (6): Sniffers](#chapter-6)
-* [Chapter (7): Denial of Service and Session hijacking](#chapter-7)
-* [Chapter (8): Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques](#chapter-8)
-* [Chapter (9): SQL Injection and Buffer Overfl](#chapter-9)
-* [Chapter (10): Hack wireless networks](#chapter-10)
-* [Chapter (11): Physical security](#chapter-11)
-* [Chapter (12): Hack Linux](#chapter-12)
-* [Chapter (13): Avoiding IDSs, Honeypots and Firewalls](#chapter-13)
-* [Chapter (14): Cryptography](#chapter-14)
-* [Chapter (15): Penetration testing methods](#chapter-15)
+## Chapters
 
-</div>
-
-
-<main>
-  
-  
-<article id="chapter-1">
-
-## Chapter 1 : Introduction to Legal Hacking
-
-</article>
-
-<article id="chapter---2----Information-gathering-and-social-engineering">
-
-## Chapter (2) - Information gathering and social engineering
-
-</article>
-
-<article id="chapter-3">
-
-## Chapter (3) - Scanning and enumeration
-
-</article>
-
-<article id="chapter4">
-
-## Chapter (4) - Hack system
-
-</article>
-
-<article id="chapter5">
-
-## Chapter (5) - Worm, Virus, Backdoor, Trojan
-
-</article>
-
-<article id="chapter6">
-
-## Chapter (6) - Sniffers
-
-</article>
-
-<article id="chapter7">
-
-## Chapter (7) - Denial of Service and Session hijacking
-
-</article>
-
-<article id="chapter8">
-
-## Chapter (8) - Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
-
-</article>
-
-<article id="chapter9">
-
-## Chapter (9) - SQL Injection and Buffer Overflow
-
-</article>
-
-<article id="chapter10">
-
-## Chapter (10) - Hack wireless networks
-
-</article>
-
-<article id="chapter11">
-
-## Chapter (11) - Physical security
-
-</article>
-
-<article id="chapter12">
-
-## Chapter (12) - Hack Linux
-
-</article>
-
-<article id="chapter13">
-
-## Chapter (13) - Avoiding IDSs, Honeypots and Firewalls
-
-</article>
-
-<article id="chapter14">
-
-## Chapter (14) - Cryptography
-
-</article>
-
-<article id="chapter15">
-
-## Chapter (15) - Penetration testing methods
-
-</article>
-
-</main>
-
-
+- <b>Chapter (1):</b> Introduction to Legal Hacking
+- <b>Chapter (2):</b> Information gathering and social engineering
+- <b>Chapter (3):</b> Scanning and enumeration
+- <b>Chapter (4):</b> Hack system
+- <b>Chapter (5):</b> Worm, Virus, Backdoor, Trojan
+- <b>Chapter (6):</b> Sniffers
+- <b>Chapter (7):</b> Denial of Service and Session hijacking
+- <b>Chapter (8):</b> Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
+- <b>Chapter (9):</b> SQL Injection and Buffer Overflo
+- <b>Chapter (10):</b> Hack wireless networks
+- <b>Chapter (11):</b> Physical security
+- <b>Chapter (12):</b> Hack Linux
+- <b>Chapter (13):</b> Avoiding IDSs, Honeypots and Firewalls
+- <b>Chapter (14):</b> Cryptography
+- <b>Chapter (15):</b> Penetration testing methods
 
 
 
