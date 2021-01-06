@@ -3,8 +3,8 @@
 ---
 
 ## Introduction:
-One of the most famous and practical security documents is the CEH certificate or the specialized certificate of legal hackers. The CEH certification is a security certification to assess the skills of individuals in securing enterprise systems and networks, as well as to help them counter hacker attacks and intrusions. In this course, people will become familiar with hacking techniques and methods as well as security checklists and will be able to check the security status of systems and networks to identify and eliminate their weaknesses.<br>
-The book in front of you is a translation of the official CEH book as well as educational slides related to this degree, as well as some personal experiences of the authors. Efforts have been made to make the text of the book as fluent as possible so that its main purpose, which is to convey the message, is properly fulfilled.
+One of the most famous and practical security documents is the CEH certificate or the specialized certificate of legal hackers. The CEH certification is a security certification to assess individuals' skills in securing enterprise systems and networks and help them counter hacker attacks and intrusions. In this course, people will become familiar with hacking techniques and methods and security checklists. They will be able to check systems and networks' security status to identify and eliminate their weaknesses.<br>
+The book in front of you is a translation of the official CEH book and educational slides related to this degree and some personal experiences of the authors. Efforts have been made to make the text of the book as fluent as possible so that its primary purpose, which is to convey the message, is adequately fulfilled.<br>
 
 
 
