@@ -27,7 +27,7 @@ The book in front of you is a translation of the official CEH book as well as ed
 <div class="nav">
 
 ## Table of Content
-* [Chapter 1 Introduction to Legal Hacking](#chapter1-introduction-to-legal-hacking)
+* [Blog](#blog)
 * [Chapter (2):Information gathering and social engineering](#chapter---2----Information-gathering-and-social-engineering)
 * [Chapter (3):Scanning and enumeration](#chapter3)
 * [Chapter (4): Hack system](#chapter4)
@@ -48,9 +48,9 @@ The book in front of you is a translation of the official CEH book as well as ed
 
 <main>
   
-<article id="chapter1-introduction-to-legal-hacking">
+<article id="Blog">
 
-## Chapter 1 Introduction to Legal Hacking
+## Blog
 
 </article>
 
