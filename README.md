@@ -249,8 +249,8 @@ SQL injection and Buffer Overflow vulnerabilities are both caused by one problem
 
 ## Chapter 11
 - ### Physical security
-Physical security is one of the most important parts of IT security to prevent the loss or theft of confidential and sensitive data. If an organization fails to provide adequate physical security, then other technical security measures such as firewalls and IDSs can be circumvented.<br>
-There is a sentence that says "When you log in, your network is yours". By physically securing your network and organization, you prevent theft of equipment such as laptops or tape drives, embedding keyloggers on systems, and placing access points on the network. Physical security depends on individuals, therefore, it is prone to social engineering attacks, such as entering a building behind an employee and not providing an ID card or key (thus, bypassing the problem of physical security)<br>
+Physical security is one of the most critical parts of IT security to prevent the loss or theft of confidential and sensitive data. If an organization fails to provide adequate physical security, other technical security measures such as firewalls and IDSs can be circumvented.<br>
+There is a sentence that says, "When you log in, your network is yours." By physically securing your network and organization, you prevent theft of equipment such as laptops or tape drives, embedding keyloggers on systems, and placing access points on the web. Physical security depends on individuals. Therefore, it is prone to social engineering attacks, such as entering a building behind an employee and not providing an ID card or key (thus, bypassing the problem of physical security).<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 11</b>  |   |   | 
