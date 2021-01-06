@@ -24,43 +24,24 @@ The book in front of you is a translation of the official CEH book as well as ed
 
 ---
 
-
-## Contents
-
-- <b>Chapter (1):</b> Introduction to Legal Hacking
-- <b>Chapter (2):</b> Information gathering and social engineering
-- <b>Chapter (3):</b> Scanning and enumeration
-- <b>Chapter (4):</b> Hack system
-- <b>Chapter (5):</b> Worm, Virus, Backdoor, Trojan
-- <b>Chapter (6):</b> Sniffers
-- <b>Chapter (7):</b> Denial of Service and Session hijacking
-- <b>Chapter (8):</b> Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques
-- <b>Chapter (9):</b> SQL Injection and Buffer Overflo
-- <b>Chapter (10):</b> Hack wireless networks
-- <b>Chapter (11):</b> Physical security
-- <b>Chapter (12):</b> Hack Linux
-- <b>Chapter (13):</b> Avoiding IDSs, Honeypots and Firewalls
-- <b>Chapter (14):</b> Cryptography
-- <b>Chapter (15):</b> Penetration testing methods
-
 <div class="nav">
 
 ## Contents
 * [Chapter 1](#chapter-1): <i>Introduction to Legal Hacking</i>
-* [Chapter 2](#chapter-2): Information gathering and social engineering
-* <b>[Chapter 3](#chapter-3):</b> <i>Scanning and enumeration</i>
-* <b>[Chapter 4](#chapter-4):<b> Hack system
-* [Chapter 5](#chapter-5)
-* [Chapter 6](#chapter-6)
-* [Chapter 7](#chapter-7)
-* [Chapter 8](#chapter-8)
-* [Chapter 9](#chapter-9)
-* [Chapter 10](#chapter-10)
-* [Chapter 11](#chapter-11)
-* [Chapter 12](#chapter-12)
-* [Chapter 13](#chapter-13)
-* [Chapter 14](#chapter-14)
-* [Chapter 15](#chapter-15)
+* [Chapter 2](#chapter-2): <i>Information gathering and social engineering</i>
+* [Chapter 3](#chapter-3): <i>Scanning and enumeration</i>
+* [Chapter 4](#chapter-4): <i>Hack system</i>
+* [Chapter 5](#chapter-5): <i>Worm, Virus, Backdoor, Trojan</i>
+* [Chapter 6](#chapter-6): <i>Sniffers</i>
+* [Chapter 7](#chapter-7): <i>Denial of Service and Session hijacking</i>
+* [Chapter 8](#chapter-8): <i>Hacking web servers, vulnerabilities in web applications, web-based password cracking techniques</i>
+* [Chapter 9](#chapter-9): <i>SQL Injection and Buffer Overflo</i>
+* [Chapter 10](#chapter-10): <i>Hack wireless networks</i>
+* [Chapter 11](#chapter-11): <i>Physical security</i>
+* [Chapter 12](#chapter-12): <i>Hack Linux</i>
+* [Chapter 13](#chapter-13): <i>Avoiding IDSs, Honeypots and Firewalls</i>
+* [Chapter 14](#chapter-14): <i>Cryptography</i>
+* [Chapter 15](#chapter-15): <i>Penetration testing methods</i>
 
 </div>
 
