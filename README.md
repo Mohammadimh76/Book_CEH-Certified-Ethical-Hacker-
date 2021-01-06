@@ -94,7 +94,7 @@ In this chapter, we will explain both hacking methods in detail.<br>
 
 ## Chapter 3
 - ### Scanning and enumeration
-Scanning and enumeration are the first steps of hacking. After the scan, the enumeration phase begins, which involves identifying the names of computers, user accounts, and shared resources. Scanning and enumeration are discussed together because many hacking tools do both.<br>
+Scanning and enumeration are the first steps in hacking. After the scan, the enumeration phase begins, which involves identifying computers, user accounts, and shared resources.<br>Scanning and enumeration are discussed together because many hacking tools do both.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 3</b>  |   |   | 
