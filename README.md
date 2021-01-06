@@ -46,8 +46,8 @@ The book in front of you is a translation of the official CEH book as well as ed
 <div class="nav">
 
 ## Contents
-* <b> [Chapter 1](#chapter-1) </b>: Introduction to Legal Hacking
-* [Chapter 2](#chapter-2)
+* [Chapter 1](#chapter-1): <i> Introduction to Legal Hacking </i>
+* [Chapter 2](#chapter-2): Information gathering and social engineering
 * [Chapter 3](#chapter-3)
 * [Chapter 4](#chapter-4)
 * [Chapter 5](#chapter-5)
