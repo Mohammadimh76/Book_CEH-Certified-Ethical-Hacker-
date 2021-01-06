@@ -177,8 +177,8 @@ Sniffer is used to capturing traffic sent between two systems. Depending on how 
   
 ## Chapter 7
 - ### Denial of Service and Session hijacking
-In a DoS attack, a hacker tries to quickly slow down the system and prevent users from using its resources. Hackers can target only one system or one network, and they usually succeed.<br>
-Session hijacking is one of the methods of hacking. Once the hacker has taken the session, it creates a temporary DoS for the end user. After a user creates a legal session, the hacker uses session hijacking to capture the session. It can also use session hijacking to carry out a man-in-the-middle attack when the hacker is between the receiver and the client and eavesdrops on all traffic.<br>
+A hacker tries to quickly slow down the system in a DoS attack and prevent users from using its resources. Hackers can target only one method or one network, and they usually succeed.<br>
+Session hijacking is one of the methods of hacking. Once the hacker has taken the session, it creates a temporary DoS for the end-user. After a user makes a regular session, the hacker uses session hijacking to capture the session. It can also use session hijacking to carry out a man-in-the-middle attack when the hacker is between the receiver and the client and eavesdrops on all traffic.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 7</b>  |   |   | 
