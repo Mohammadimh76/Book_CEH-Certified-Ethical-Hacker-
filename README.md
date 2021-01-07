@@ -124,17 +124,18 @@ In this chapter, we will discuss the various aspects of system hacking. Recall t
 #### 🔹 Topics in this chapter include
 | <b>Chapter 4</b>  |   |   | 
 |-----------|--------------------|-----------|
-|4-1 |4-12 |4-23 |
-|4-2 |4-13 |4-24 |
-|4-3 |4-14 |4-25 |
-|4-4 |4-15 |4-26 |
-|4-5 |4-16 |4-27 |
-|4-6 |4-17 |4-28 |
-|4-7 |4-18 |4-29 |
-|4-8 |4-19 |4-30 |
-|4-9 |4-20 |4-31 |
-|4-10 |4-21 |4-32 |
-|4-11 |4-22 |4-33 |
+|4-1 Introduction |4-12 Types of passwords |4-23 Buffer Overflows |
+|4-2 Password breaking techniques |4-13 Passive Online Attacks |4-24 Rootkits |
+|4-3 LanManager Hash |4-14 Active Online Attacks |4-25 Install Rootkit on Windows 2000 and xp |
+|4-4 LanManager Hash |4-15 Guess the password automatically |4-26 Dealing with Rootkits |
+|4-5 Comparison of LM, NTLM v1 & NTLM v2 LM protocols |4-16 Deal with password guessing |4-27 Hide files |
+|4-6 Break Windows 2000 passwords |4-17 Offline attacks |4-28 NTFS File Streaming |
+|4-7 Navigate the SMB Logon to the attacker |4-18 Pre-Computed Hashes |4-29 Counter NTFS Stream |
+|4-8 SMB Relay MITM attacks and counter |4-19 Nonelectronic attacks |4-30 Steganography technologies |
+|4-9 Dealing with password breaking |4-20 Spyware & keyloggers techniques |4-31 Clear footprints and documents |
+|4-10 Password change interval |4-21 Necessary accesses |4-32 Disable Auditing |
+|4-11 Check Event Viewer Logs |4-22 Performances |4-33 Clear Event Log |
+
 
 </article>
 
