@@ -298,9 +298,10 @@ Intrusion detection systems (IDS), firewalls, and honeypots are security measure
 #### 🔹 Topics in this chapter include
 | <b>Chapter 13</b>  |   |   | 
 |-----------|--------------------|-----------|
-|13-1 |13-4 |13-7 |
-|13-2 |13-5 |13-8 |
-|13-3 |13-6 |13-9 |
+|13-1 Introduction |13-4 Firewall |13-7 Different types of Honeypot |
+|13-2 Types of intrusion detection systems and escape techniques |13-5 Types of firewalls |13-8 Honeypot location on the network |
+|13-3 Escape from IDS |13-6 Honeypot |13-9 Physical and virtual honeypot |
+
 
 </article>
 
