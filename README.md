@@ -281,10 +281,10 @@ The flexibility and cost of Linux, as well as the increase in the number of Linu
 #### 🔹 Topics in this chapter include
 | <b>Chapter 12</b>  |   |   | 
 |-----------|--------------------|-----------|
-|12-1 |12-5 |12-9 |
-|12-2 |12-6 |12-10 |
-|12-3 |12-7 | |
-|12-4 |12-8 | |
+|12-1 Introduction |12-4 What is the need for physical security? |12-7 Physical Security Checklist |
+|12-2 Physical security breach events |12-5 Who is responsible for physical security? |12-8 Some physical security tools|
+|12-3 Physical security breach events |12-6 Factors that affect physical security | |
+
 
 </article>
 
