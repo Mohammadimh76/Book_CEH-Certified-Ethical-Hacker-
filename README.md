@@ -313,8 +313,9 @@ Cryptography is the study of encryption and encryption algorithms. Encryption is
 #### 🔹 Topics in this chapter include
 | <b>Chapter 14</b>  |   |   | 
 |-----------|--------------------|-----------|
-|14-1 |14-3 |14-5 |
-|14-2 |14-4 | |
+|14-1 Introduction |14-3 How to generate public and private keys |14-5 SSH|
+|14-2 Encryption and encryption techniques |14-4 A look at the RC5 & RC4 & SHA & MD5 Blowfish & algorithms | |
+
 
 </article>
 
