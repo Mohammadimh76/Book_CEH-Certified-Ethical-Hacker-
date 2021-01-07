@@ -247,10 +247,11 @@ SQL injection and Buffer Overflow vulnerabilities are both caused by one problem
 #### 🔹 Topics in this chapter include
 | <b>Chapter 10</b>  |   |   | 
 |-----------|--------------------|-----------|
-|10-1 |10-5 |10-9 |
-|10-2 |10-6 |10-10 |
-|10-3 |10-7 |10-11 |
-|10-4 |10-8 | |
+|10-1 Introduction |10-5 Wireless Network Hacking Terms |10-9 Steps of hacking wireless networks |
+|10-2 Wireless standards |10-6 Wireless eavesdropping and inserting SSIDs and MAC spoofing |10-10 Methods of identifying wireless networks |
+|10-3 Wireless concepts |10-7 Rogue Access Point (fake) |10-11 Ways to secure wireless networks |
+|10-4 WEP and WPA authentication mechanisms and breaking techniques |10-8 Wireless Network Hacking Techniques | |
+
 
 </article>
 
