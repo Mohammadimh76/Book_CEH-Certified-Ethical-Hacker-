@@ -101,16 +101,17 @@ Scanning and enumeration are the first steps in hacking. After the scan, the enu
 #### 🔹 Topics in this chapter include
 | <b>Chapter 3</b>  |   |   | 
 |-----------|--------------------|-----------|
-|3-1 |3-11 |3-21 |
-|3-2 |3-12 |3-22 |
-|3-3 |3-13 |3-23 |
-|3-4 |3-14 |3-24 |
-|3-5 |3-15 |3-25 |
-|3-6 |3-16 |3-26 |
-|3-7 |3-17 |3-27 |
-|3-8 |3-18 |3-28 |
-|3-9 |3-19 |3-29 |
-|3-10 |3-20 | |
+|3-1 Introduction |3-11 Scans FIN, IDLE, NULL, XMAS, Stealth, SYN |3-21 IP Spoofing Techniques |
+|3-2 Scan |3-12 Types of TCP communication flags |3-22 Enumeration |
+|3-3 Port scan, network scan, vulnerability scan |3-13 Floppy Scan |3-23 Null Session |
+|3-4 Scan methodology |3-14 War-Dialing Techniques |3-24 Counter Null Session |
+|3-5 Ping Sweep Techniques |3-15 Banner Grabbing and OS Identification Techniques |3-25 What is SNMP Enumeration? |
+|3-6 Detect Ping Sweeps |3-16 Draw a network diagram of vulnerable devices |3-26 Dealing with SNMP enumeration |
+|3-7 Scan ports and identify services |3-17 How are proxy servers used in an attack? |3-27 DNS Zone Transfer in Windows 2000 |
+|3-8 Deal with port scanning |3-18 How do anonymizers work? |3-28 What are the steps in enumeration?|
+|3-9 Nmap command switch |3-19 HTTP Tunneling Techniques | |
+|3-10 HPING2 |3-20 Httptunnel tool for Windows | |
+
 
 </article>
 
