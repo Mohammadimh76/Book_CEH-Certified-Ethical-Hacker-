@@ -60,12 +60,13 @@ This chapter introduces the world of legitimate hackers. Legal hacking is a type
 #### 🔹 Topics in this chapter include
 | <b>Chapter 1</b>  |   |   | 
 |-----------|--------------------|-----------|
-|1-1  |1-7  |1-13 |
-|1-2  |1-8  |1-14 |
-|1-3  |1-9  |1-15 |
-|1-4 |1-10 |1-16 |
-|1-5 |1-11 |1-17 |
-|1-6 |1-12 |1-18 |
+|1-1 Introduction |1-7 Who are the legitimate hackers and crackers? |1-13 Types of lawful attacks |
+|1-2 Technical vocabulary |1-8 Attacker targets |1-14 Types of tests |
+|1-3 Different types of hacking technologies |1-9 Triangle of safety, performance and ease of use |1-15 Test without knowledge (Black box) |
+|1-4 Five different stages of legal hacking |1-10 What is vulnerability research? |1-16 Test with full knowledge (White box)|
+|1-5 What is Hacktivism? |1-11 Legitimate hacking methods |1-17 Test with partial knowledge (Gray box) |
+|1-6 Types of hackers |1-12 Security Assessment Program |1-18 Report a legitimate hack |
+
 
 </article>
 
