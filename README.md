@@ -191,10 +191,10 @@ Session hijacking is one of the methods of hacking. Once the hacker has taken th
 |-----------|--------------------|-----------|
 |7-1 Introduction |7-8 Deal with DOS & DDOS |7-15 RST Hijacking|
 |7-2 Denial of Service |7-9 Session Hijacking |7-16 Blind Hijacking |
-|7-3 Types of DOS attacks |7-10 Hijacking & Spoofing |7-17 Risks of session hijacking |
-|7-4 How DDOS attacks work |7-11 Types of session hijacking |7-18 How to prevent session hijacking |
+|7-3 Types of DOS attacks |7-10 Hijacking & Spoofing |7-17 Risks of Session Hijacking |
+|7-4 How DDOS attacks work |7-11 Types of Session Hijacking |7-18 How to prevent Session Hijacking |
 |7-5 How BOTs & BOTNET work |7-12 Sequence prediction | |
-|7-6 What is a smurf attack? |7-13 What are the steps in session hijacking? | |
+|7-6 What is a smurf attack? |7-13 What are the steps in Session Hijacking? | |
 |7-7 What is SYN flooding? |7-14 TCP / IP Hijacking | |
 
 
