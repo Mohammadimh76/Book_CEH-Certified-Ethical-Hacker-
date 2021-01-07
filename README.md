@@ -243,6 +243,8 @@ SQL injection and Buffer Overflow vulnerabilities are both caused by one problem
   
 ## Chapter 10
 - ### Hack wireless networks
+One of the entry points of hackers into the network is the use of wireless networks. They have many vulnerabilities due to the radio frequency nature of wireless networks and the rapid adaptation of wireless technologies for home and commercial networks.<br>
+Many wireless LANs (WLANs) are based on the IEEE 802.11 standard and its extensions such as 802.11a, 802.11b & 802.11n. The 802.11 standard has only basic security features and many weaknesses. The 802.11i extension is the latest security solution that covers 802.11 vulnerabilities. The Wi-Fi Association has introduced additional security certificates called WPA and WPA2 to bridge the gap between the original 802.11 standard and the latest 802.11i extension. In this chapter, we will discuss vulnerabilities and security solutions based on IEEE and Wi-Fi standards.<br>
 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 10</b>  |   |   | 
