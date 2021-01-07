@@ -231,10 +231,11 @@ SQL injection and Buffer Overflow vulnerabilities are both caused by one problem
 #### 🔹 Topics in this chapter include
 | <b>Chapter 9</b>  |   |   | 
 |-----------|--------------------|-----------|
-|9-1 |9-5 |9-9 |
-|9-2 |9-6 |9-10 |
-|9-3 |9-7 |9-11 |
-|9-4 |9-8 |9-12 |
+|9-1 Introduction |9-5 Blind SQL Injection |9-9 Heap-based overflow buffer overflow (heap) |
+|9-2 What is SQL Injection? |9-6 Blind SQL Injection |9-10 How to detect buffer overflow in the program |
+|9-3 Steps to perform SQL Injection |9-7 Buffer Overflow types and detection methods |9-11 Buffer overflow change techniques |
+|9-4 SQL Server vulnerabilities |9-8 Stack-based buffer overflow |9-12 Buffer overflow prevention methods |
+
 
 </article>
 
