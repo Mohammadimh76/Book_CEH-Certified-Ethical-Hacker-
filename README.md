@@ -329,9 +329,10 @@ A hacker who intends to gain access to an organization's network is different fr
 #### 🔹 Topics in this chapter include
 | <b>Chapter 15</b>  |   |   | 
 |-----------|--------------------|-----------|
-|15-1 |15-4 |15-7 |
-|15-2 |15-5 | |
-|15-3 |15-6 | |
+|15-1 Introduction |15-4 Penetration testing steps |15-7 Items to be presented in the penetration test |
+|15-2 Security assessments |15-5 Legal framework for penetration testing | |
+|15-3 Penetration testing methods |15-6 Automated penetration testing tools | |
+
 
 </article>
 
