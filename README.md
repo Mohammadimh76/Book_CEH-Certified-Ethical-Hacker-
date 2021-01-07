@@ -265,9 +265,9 @@ There is a sentence that says, "When you log in, your network is yours." By phys
 #### 🔹 Topics in this chapter include
 | <b>Chapter 11</b>  |   |   | 
 |-----------|--------------------|-----------|
-|11-1 |11-4 |11-7 |
-|11-2 |11-5 |11-8 |
-|11-3 |11-6 | |
+|11-1 Introduction |11-4 What is the need for physical security? |11-7 Physical Security Checklist |
+|11-2 Physical security breach events |11-5 Who is responsible for physical security? |11-8 Some physical security tools|
+|11-3 Physical security breach events |11-6 Factors that affect physical security | |
 
 </article>
 
@@ -281,9 +281,10 @@ The flexibility and cost of Linux, as well as the increase in the number of Linu
 #### 🔹 Topics in this chapter include
 | <b>Chapter 12</b>  |   |   | 
 |-----------|--------------------|-----------|
-|12-1 Introduction |12-4 What is the need for physical security? |12-7 Physical Security Checklist |
-|12-2 Physical security breach events |12-5 Who is responsible for physical security? |12-8 Some physical security tools|
-|12-3 Physical security breach events |12-6 Factors that affect physical security | |
+|12-1 Introduction |12-5 How to compile a Linux kernel |12-9 Linux security methods |
+|12-2 Linux basis |12-6 GCC compilation commands |12-10 Linux Firewall (IPTable) |
+|12-3 Basic Linux Commands |12-7 How to install Linux kernel modules | |
+|12-4 Linux directories |12-8 Linux vulnerabilities | |
 
 
 </article>
