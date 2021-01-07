@@ -170,11 +170,12 @@ Sniffer is used to capturing traffic sent between two systems. Depending on how 
 #### 🔹 Topics in this chapter include
 | <b>Chapter 6</b>  |   |   | 
 |-----------|--------------------|-----------|
-|6-1 |6-6 |6-11 |
-|6-2 |6-7 |6-12 |
-|6-3 |6-8 |6-13 |
-|6-4 |6-9 | |
-|6-5 |6-10 | |
+|6-1 Introduction |6-6 Capture by Ethereal and display filters |6-11 Proxy Server DNS Poisoning |
+|6-2 Protocols prone to eavesdropping |6-7 MAC Flooding |6-12 DNS Cache Poisoning |
+|6-3 Active and passive eavesdropping |6-8 DNS Poisoning |6-13 Dealing with eavesdropping |
+|6-4 ARP Poisoning |6-9 Intranet DNS Spoofing | |
+|6-5 MAC Duplicating |6-10 Internet DNS Spoofing | |
+
 
 </article>
 
