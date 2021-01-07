@@ -80,14 +80,15 @@ In this chapter, we will explain both hacking methods in detail.<br>
 #### 🔹 Topics in this chapter include
 | <b>Chapter 2</b>  |   |   | 
 |-----------|--------------------|-----------|
-|2-1 |2-9 |2-17 |
-|2-2 |2-10 |2-18 |
-|2-3 |2-11 |2-19 |
-|2-4 |2-12 |2-20 |
-|2-5 |2-13 |2-21 |
-|2-6 |2-14 |2-22 |
-|2-7 |2-15 |2-23 |
-|2-8 |2-16 | |
+|2-1 Introduction |2-9 Find the network address range |2-17 What are the common types of attacks? |
+|2-2 Footprinting |2-10 Identify types of DNS records |2-18 Human-based social engineering |
+|2-3 Definition of Footprinting |2-11 How traceroute works in footprinting |2-19 Computer-based social engineering |
+|2-4 Data collection methodologies |2-12 Use Email Tracking |2-20 Internal attacks |
+|2-5 DNS Enumeration |2-13 How Web Spiders work |2-21 Phishing attacks |
+|2-6 DNSstuff and Nslookup |2-14 Steps to do Footprinting |2-22 URL obfuscation |
+|2-7 The concept of ARIN Lookup and Whois |2-15 Social Engineering |2-23 Prevention of social engineering |
+|2-8 Whois output analysis |2-16 What is social engineering? | |
+
 
 </article>
 
