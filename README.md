@@ -149,13 +149,14 @@ Viruses and worms can be as dangerous as trojans and backdoors. Many viruses tri
 #### 🔹 Topics in this chapter include
 | <b>Chapter 5</b>  |   |   | 
 |-----------|--------------------|-----------|
-|5-1 |5-8 |5-15 |
-|5-2 |5-9 |5-16 |
-|5-3 |5-10 |5-17 |
-|5-4 |5-11 |5-18 |
-|5-5 |5-12 |5-19 |
-|5-6 |5-13 |5-20 |
-|5-7 |5-14 |5-21 |
+|5-1 Introduction |5-8 What are the signs of a trojan attack? |5-15 The difference between a virus and a worm |
+|5-2 Trojans and backdoors |5-9 What is Wrapping? |5-16 Types of viruses |
+|5-3 What is a Trojan? |5-10 Trojan build tools |5-17 How the virus spreads and infects the system |
+|5-4 What are overt and covert channels? |5-11 What are the anti-malware techniques? |5-18 An example of a simple virus|
+|5-5 Types of Trojans |5-12 Trojan escape techniques |5-19 Trojan build tools |
+|5-6 How do Reverse-connecting Trojans work? |5-13 Check the file system to deal with malware |5-20 Antivirus Bypass Techniques |
+|5-7 How Netcat Trojans Work |5-14 Viruses and worms |5-21 Virus detection methods |
+
 
 </article>
 
