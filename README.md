@@ -209,14 +209,15 @@ Web servers and web applications are highly susceptible to attack. The first rea
 #### 🔹 Topics in this chapter include
 | <b>Chapter 8</b>  |   |   | 
 |-----------|--------------------|-----------|
-|8-1 |8-9 |8-17 |
-|8-2 |8-10 |8-18 |
-|8-3 |8-11 |8-19 |
-|8-4 |8-12 |8-20 |
-|8-5 |8-13 |8-21 |
-|8-6 |8-14 |8-22 |
-|8-7 |8-15 | |
-|8-8 |8-16 | |
+|8-1 Introduction |8-9 Web Server Protection Checklist |8-17 Authentication |
+|8-2 Hack web servers |8-10 Vulnerabilities of web applications |8-18 Types of authentication |
+|8-3 Types of web server vulnerabilities |8-11 How web applications work |8-19 Password|
+|8-4 Attacks on web servers |8-12 The purpose of hacking web applications |8-20 What is a cracker password? |
+|8-5 IIS Unicode Exploit |8-13 Attack Anatomy |8-21 How does a cracker password work? |
+|8-6 Patch management techniques |8-14 Web application threats |8-22 Attack to break the password: Category |
+|8-7 Vulnerability scanners |8-15 Google Hacking | |
+|8-8 Web server security methods |8-16 Web-based password cracking techniques | |
+
 
 </article>
 
