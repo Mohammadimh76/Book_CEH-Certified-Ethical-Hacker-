@@ -1,4 +1,4 @@
-# "CEH(Certified Ethical Hacker)" (🔸Release March,2021)
+# "CEH(Certified Ethical Hacker)" 
 
 ---
 
